@@ -25,7 +25,7 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A rails app repo with:
-  * Rails 4.2.0
+  * Rails 4.2.1
   * Functioning db/seed.rb
 * A link to a live Heroku instance
 
@@ -33,9 +33,9 @@ After completing this assignment, you be able to effectively use
 
 * Reddit is "User-generated news links. Votes promote stories to the front
   page."
-* Each Link should have many Votes associated with it.
+* Each Link should have a "number of positive votes" column
 * The homepage should order by the most number of votes
-* Clicking on a link should create a positive vote
+* Clicking on a link should increment positive vote
 
 
 ## Normal Mode
