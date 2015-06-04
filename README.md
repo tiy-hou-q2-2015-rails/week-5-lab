@@ -50,7 +50,7 @@ Normal mode is a simple, naive, implementation of Redit
 * When submitting a link, allow user to select themselves in a drop down
 * Check the Links for unique URLs and
 
-## Insane Mode
+## Nightmare Mode
 
 * Make the user sign in using `Devise` or similar
 * Add Controller testing and Acceptance testing to verify a user clicking a link
