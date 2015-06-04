@@ -53,7 +53,8 @@ Normal mode is a simple, naive, implementation of Redit
 ## Insane Mode
 
 * Make the user sign in using `Devise` or similar
-* Create a subdomain for each "sub-reddit", like LOL and Gifs
+* Add Controller testing and Acceptance testing to verify a user clicking a link
+  creates the votes you expect
 
 ## Notes
 
